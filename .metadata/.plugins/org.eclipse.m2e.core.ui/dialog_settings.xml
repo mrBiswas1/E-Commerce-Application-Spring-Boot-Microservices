@@ -6,6 +6,10 @@
 	</section>
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="E:\E-Commerce Application\eureka-servies"/>
+			<item value="E:\E-Commerce Application\config-server"/>
+			<item value="E:\E-Commerce Application\config-server\config-server"/>
+			<item value="E:\E-Commerce Application\eureka-server"/>
 			<item value="C:\Users\biswa\Downloads\config-server"/>
 			<item value="C:\Users\biswa\Downloads\eureka-server"/>
 		</list>
