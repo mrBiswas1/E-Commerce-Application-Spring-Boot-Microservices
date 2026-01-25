@@ -30,7 +30,7 @@ spring:
       - X-B3-Flags
 
 server:
-  port: 8086
+  port: 8087
 
 eureka:
   client:
