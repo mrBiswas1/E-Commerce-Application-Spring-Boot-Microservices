@@ -1,0 +1,5 @@
+package com.ecom.review.rating.controller;
+
+public class ReviewController {
+
+}

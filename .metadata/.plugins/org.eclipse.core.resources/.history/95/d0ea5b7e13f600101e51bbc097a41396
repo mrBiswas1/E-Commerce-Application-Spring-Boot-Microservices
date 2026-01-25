@@ -1,0 +1,5 @@
+package com.ecom.product.client;
+
+public class InventoryClient {
+
+}

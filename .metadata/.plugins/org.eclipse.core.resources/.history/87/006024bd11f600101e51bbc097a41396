@@ -1,0 +1,5 @@
+package com.ecom.product.request;
+
+public class ProductRequest {
+
+}

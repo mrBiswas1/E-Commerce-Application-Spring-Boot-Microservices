@@ -1,0 +1,5 @@
+package com.ecom.cart.tracing;
+
+public class TracingFeignConfig {
+
+}
